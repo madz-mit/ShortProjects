@@ -8,6 +8,9 @@ GNU Plotutils
 fractal_tree.c
 Draws a fractal tree. 
 Compile with
+
 gcc -lm -lplot -o fractal_tree fractal_tree.c
+
 Run with
+
 ./fractal_tree
