@@ -1,2 +1,13 @@
 # ShortProjects
 Short demos I made while learning
+
+Mostly C programs made while learning some new libraries. 
+All the work is done in Debian Linux. Not too specific about versions.
+
+GNU Plotutils
+fractal_tree.c
+Draws a fractal tree. 
+Compile with
+gcc -lm -lplot -o fractal_tree fractal_tree.c
+Run with
+./fractal_tree
