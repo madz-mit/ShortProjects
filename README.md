@@ -4,9 +4,9 @@ Short demos I made while learning
 Mostly C programs made while learning some new libraries. 
 All the work is done in Debian Linux. Not too specific about versions.
 
-1. GNU Plotutils
+# 1. GNU Plotutils
 
-1.1 fractal_tree.c
+# 1.1 fractal_tree.c
 
 Draws a fractal tree. 
 
